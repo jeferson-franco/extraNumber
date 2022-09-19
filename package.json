@@ -1,0 +1,20 @@
+{
+  "name": "extranumber",
+  "version": "1.0.0",
+  "description": "You're given three integers, `a`, `b` and `c`. It is guaranteed that two of these integers are equal to each other. What is the value of the third integer?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/extraNumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/extraNumber/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/extraNumber#readme"
+}
